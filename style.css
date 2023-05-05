@@ -29,24 +29,7 @@ html{
     cursor: pointer;
     
 }
-.titleText{
-    color: wheat;
-    text-align: center;
-    font-size: 2em;
-    margin-right: 1em;
-    margin-bottom: 2em;
-}
-.secondText{
-    color:whitesmoke ;
-    text-align: center;
-    margin-top: 1em;
-    font-size: 2em;
-}
-.thirdText{
-    color: #f4511e;
-    text-shadow: #fef8f8;
-    text-align: center;
-}
+
 .nav-list{
     width: 70%; 
     display: flex; 
