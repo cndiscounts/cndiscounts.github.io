@@ -14,12 +14,6 @@ html{
     justify-content: center;
     align-items: center;
 }
-.titleText{
-    color: wheat;
-    text-align: center;
-    margin-right: 1em;
-    margin-bottom: 2em;
-}
 .logo img{
     width: 26%;
     border: 3px solid white;
@@ -64,12 +58,6 @@ html{
     padding: 0 23px;
 }
 
-#search{
-    padding: 5px;
-    font-size: 17px;
-    border: 2px solid grey;
-    border-radius: 9px;
-}
 
 .background{
   
@@ -118,8 +106,6 @@ html{
 }
 
 .btn {
-    -webkit-border-radius: 9;
-    -moz-border-radius: 9;
     border-radius: 9px;
     font-family: Arial;
     color: #ffffff;
@@ -127,6 +113,8 @@ html{
     background: #ff6600;
     padding: 9px 20px 10px 20px;
     text-decoration: none;
+    margin: auto;
+    text-align: center;
   }
   
   .btn:hover {
@@ -196,6 +184,18 @@ html{
 .titleText{
     color: wheat;
     text-align: center;
+    font-size: 2em;
     margin-right: 1em;
     margin-bottom: 2em;
+}
+.secondText{
+    color:whitesmoke ;
+    text-align: center;
+    margin-top: 1em;
+    font-size: 2em;
+}
+.thirdText{
+    color: #f4511e;
+    text-shadow: #fef8f8;
+    text-align: center;
 }
